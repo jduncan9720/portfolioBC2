@@ -21,6 +21,9 @@ body {
     border-width:8px !important;
 }
 
+.borderUnder {
+    border-width:1px !important;
+}
 .profileImage {
     width: 200px;
     height: auto;
@@ -38,6 +41,7 @@ footer {
     bottom: 0;
     width: 100%;
     position: fixed;
+    border-width:8px !important;
 }
 
 @media screen and (max-width: 1200px) {
