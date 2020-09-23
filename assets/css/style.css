@@ -1,5 +1,5 @@
 body {
-    background-color: wheat;
+    background-color: black;
 }
 
 .fullPage {
@@ -21,6 +21,10 @@ body {
     margin-right: 20px;
 }
 
+.rowOne {
+    margin-bottom: 20px;
+}
+
 footer {
     height: 50px;
     padding-top: 10px;
@@ -29,3 +33,14 @@ footer {
     position: fixed;
 }
 
+@media screen and (max-width: 1200px) {
+
+    .card {
+        margin-bottom: 15px;
+    }
+
+    .rowOne{
+        margin-bottom: 0;
+    }
+
+}
