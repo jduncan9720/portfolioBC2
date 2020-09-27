@@ -6,6 +6,14 @@ body {
     padding: 0;
 }
 
+.navName {
+    font-family: 'Courier Prime', monospace;
+    font-size: 35px;
+}
+
+.titleHead {
+    font-family: 'Courier Prime', monospace;
+}
 .contentBox {
     background-color: white;
     margin-top: 40px;
@@ -61,4 +69,11 @@ footer {
         margin-bottom: 0;
     }
 
+    .mainLinkBox{
+        border-left: none !important;
+    }
+
+    .linkBox {
+        margin-top: 20px;
+    }
 }
