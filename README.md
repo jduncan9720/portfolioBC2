@@ -1,6 +1,6 @@
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
-I've created a responsive portfolio using mainly Bootstrap for layout, positioning and styling.  The layout was done using the bootstraop gid system of rows and columns. I've incorporated my own css in parts that needed to overwrite the default Bootstrap styles
+I've created a responsive portfolio using mainly Bootstrap for layout, positioning and styling.  The layout was done using the bootstrap grid system of rows and columns. I've incorporated my own css in places I needed to overwrite the default Bootstrap styles.
 
 
 ## Link to site:
